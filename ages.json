@@ -5,10 +5,10 @@
         "name": "Galebino",
         "date_of_birth": "2023-06-16",
         "age": {
-          "years": null,
-          "months": null,
-          "days": null,
-          "hours": null
+          "years": 1,
+          "months": 10,
+          "days": 1,
+          "hours": 4
         }
       }
     ],
@@ -17,20 +17,20 @@
         "name": "Thao",
         "date_of_birth": "2025-03-14",
         "age": {
-          "years": null,
-          "months": null,
-          "days": null,
-          "hours": null
+          "years": 0,
+          "months": 1,
+          "days": 3,
+          "hours": 9
         }
       },
       {
         "name": "Lua",
         "date_of_birth": "2025-03-14",
         "age": {
-          "years": null,
-          "months": null,
-          "days": null,
-          "hours": null
+          "years": 0,
+          "months": 1,
+          "days": 3,
+          "hours": 9
         }
       }
     ]
