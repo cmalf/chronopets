@@ -14,13 +14,13 @@ jobs:
 
     steps:
       - name: Checkout Code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # Updated to v4
         with:
           persist-credentials: true
           fetch-depth: 0
 
       - name: Set up Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4 # Updated to v4
         with:
           node-version: 'lts/*'
 
@@ -42,7 +42,7 @@ jobs:
           git commit -m "$random_msg - $current_time" || echo "No changes to commit."
 
       - name: GitHub Push to main
-        uses: ad-m/github-push-action@v0.6.0
+        uses: ad-m/github-push-action@v0.8.0 # Updated to v0.8.0
         with:
           directory: '.'
           github_token: ${{ secrets.GITHUB_TOKEN }}
