@@ -1,0 +1,38 @@
+{
+  "categories": {
+    "frog": [
+      {
+        "name": "Galebino",
+        "date_of_birth": "2023-06-16",
+        "age": {
+          "years": null,
+          "months": null,
+          "days": null,
+          "hours": null
+        }
+      }
+    ],
+    "cat": [
+      {
+        "name": "Thao",
+        "date_of_birth": "2025-03-14",
+        "age": {
+          "years": null,
+          "months": null,
+          "days": null,
+          "hours": null
+        }
+      },
+      {
+        "name": "Lua",
+        "date_of_birth": "2025-03-14",
+        "age": {
+          "years": null,
+          "months": null,
+          "days": null,
+          "hours": null
+        }
+      }
+    ]
+  }
+}
