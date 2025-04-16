@@ -38,7 +38,7 @@ jobs:
           random_msg=${commit_messages[$RANDOM % ${#commit_messages[@]}]}
           current_time=$(date '+%Y-%m-%d %H:%M:%S')
 
-          git add ages.json
+          git add ages.json README.md
           git commit -m "$random_msg - $current_time" || echo "No changes to commit."
 
       - name: GitHub Push to main
