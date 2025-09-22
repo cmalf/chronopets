@@ -11,9 +11,9 @@ This repository uses GitHub Actions to automatically update the `ages.json` and 
 
 > Updates Ages :
 
-## Last updated: September 22, 2025 at 12:18:47 AM (Denpasar, WITA Time (UTC+8))
+## Last updated: September 23, 2025 at 12:22:29 AM (Denpasar, WITA Time (UTC+8))
 
-- Galebino (Age: 2 years, 3 months, 6 days, 20 hours)
-- Thao (Age: 0 years, 6 months, 10 days, 0 hours)
-- Lua Fuzza (Age: 0 years, 6 months, 10 days, 0 hours)
+- Galebino (Age: 2 years, 3 months, 7 days, 20 hours)
+- Thao (Age: 0 years, 6 months, 11 days, 1 hours)
+- Lua Fuzza (Age: 0 years, 6 months, 11 days, 1 hours)
 
