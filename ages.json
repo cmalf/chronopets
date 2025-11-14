@@ -7,7 +7,7 @@
         "age": {
           "years": 2,
           "months": 4,
-          "days": 29,
+          "days": 30,
           "hours": 10
         }
       }
@@ -19,7 +19,7 @@
         "age": {
           "years": 0,
           "months": 8,
-          "days": 2,
+          "days": 3,
           "hours": 3
         }
       },
@@ -29,7 +29,7 @@
         "age": {
           "years": 0,
           "months": 8,
-          "days": 2,
+          "days": 3,
           "hours": 3
         }
       }
