@@ -7,7 +7,7 @@
         "age": {
           "years": 2,
           "months": 9,
-          "days": 26,
+          "days": 27,
           "hours": 5
         }
       }
@@ -18,9 +18,9 @@
         "date_of_birth": "2025-03-13",
         "age": {
           "years": 1,
-          "months": 0,
-          "days": 29,
-          "hours": 10
+          "months": 1,
+          "days": 0,
+          "hours": 0
         }
       },
       {
@@ -28,9 +28,9 @@
         "date_of_birth": "2025-03-13",
         "age": {
           "years": 1,
-          "months": 0,
-          "days": 29,
-          "hours": 10
+          "months": 1,
+          "days": 0,
+          "hours": 0
         }
       }
     ]
