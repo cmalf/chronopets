@@ -6,9 +6,9 @@
         "date_of_birth": "2023-06-16",
         "age": {
           "years": 2,
-          "months": 9,
-          "days": 30,
-          "hours": 6
+          "months": 10,
+          "days": 0,
+          "hours": 19
         }
       }
     ],
@@ -19,7 +19,7 @@
         "age": {
           "years": 1,
           "months": 1,
-          "days": 3,
+          "days": 4,
           "hours": 0
         }
       },
@@ -29,7 +29,7 @@
         "age": {
           "years": 1,
           "months": 1,
-          "days": 3,
+          "days": 4,
           "hours": 0
         }
       }
