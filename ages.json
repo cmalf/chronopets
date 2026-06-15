@@ -5,10 +5,10 @@
         "name": "Galebino",
         "date_of_birth": "2023-06-16",
         "age": {
-          "years": 2,
-          "months": 11,
-          "days": 29,
-          "hours": 9
+          "years": 3,
+          "months": 0,
+          "days": 0,
+          "hours": 1
         }
       }
     ],
@@ -19,8 +19,8 @@
         "age": {
           "years": 1,
           "months": 3,
-          "days": 2,
-          "hours": 3
+          "days": 3,
+          "hours": 6
         }
       },
       {
@@ -29,8 +29,8 @@
         "age": {
           "years": 1,
           "months": 3,
-          "days": 2,
-          "hours": 3
+          "days": 3,
+          "hours": 6
         }
       }
     ]
