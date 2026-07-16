@@ -4,11 +4,24 @@
       {
         "name": "Galebino",
         "date_of_birth": "2023-06-16",
+        "passed_away": "2026-01-13",
         "age": {
-          "years": 3,
+          "years": 2,
+          "months": 6,
+          "days": 28,
+          "hours": 20
+        }
+      }
+    ],
+    "gecko": [
+      {
+        "name": "Ziggy",
+        "date_of_birth": "2026-06-17",
+        "age": {
+          "years": 0,
           "months": 0,
           "days": 29,
-          "hours": 23
+          "hours": 5
         }
       }
     ],
@@ -19,8 +32,8 @@
         "age": {
           "years": 1,
           "months": 4,
-          "days": 2,
-          "hours": 17
+          "days": 3,
+          "hours": 5
         }
       },
       {
@@ -29,8 +42,8 @@
         "age": {
           "years": 1,
           "months": 4,
-          "days": 2,
-          "hours": 17
+          "days": 3,
+          "hours": 5
         }
       }
     ]

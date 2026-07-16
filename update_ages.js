@@ -4,9 +4,9 @@ const path = require('path');
 const DATA_FILE = 'ages.json';
 const README_FILE = 'README.md';
 
-async function calculateAge(birthDateStr) {
+async function calculateAge(birthDateStr, passedAwayStr) {
     const birthDate = new Date(birthDateStr);
-    const today = new Date();
+    const today = passedAwayStr ? new Date(passedAwayStr) : new Date();
     const diffInMilliseconds = today.getTime() - birthDate.getTime();
 
     const millisecondsPerHour = 1000 * 60 * 60;
@@ -52,8 +52,11 @@ async function updateAgesAndReadme() {
                 for (const pet of pets) {
                     const birthDate = pet.date_of_birth;
                     if (birthDate && pet.name) {
-                        pet.age = await calculateAge(birthDate);
-                        const ageString = `${pet.age.years} years, ${pet.age.months} months, ${pet.age.days} days, ${pet.age.hours} hours`;
+                        pet.age = await calculateAge(birthDate, pet.passed_away);
+                        let ageString = `${pet.age.years} years, ${pet.age.months} months, ${pet.age.days} days, ${pet.age.hours} hours`;
+                        if (pet.passed_away) {
+                            ageString += ` - Passed away`;
+                        }
                         ageReplacements[pet.name] = ageString;
                         console.log(`Calculated age for ${pet.name}:`, ageString);
                     }
