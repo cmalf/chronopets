@@ -2,7 +2,7 @@ name: Daily Age Update (cmalf)
 
 on:
   schedule:
-    - cron: '0 16 * * *' # Runs every day at 16:00 UTC (12:00 AM WITA)
+    - cron: '13 16 * * *' # Runs every day at 16:13 UTC (12:13 AM/ 00:13 WITA) JQD
   workflow_dispatch: # Allows manual triggering from the GitHub UI
 
 permissions:
