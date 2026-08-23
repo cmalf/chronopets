@@ -14,9 +14,9 @@ This repository uses GitHub Actions to automatically update the `ages.json` and 
 
 > Updates Ages :
 
-## Last updated: August 23, 2026 at 12:16:20 AM (Denpasar, WITA Time (UTC+8))
+## Last updated: August 24, 2026 at 12:17:44 AM (Denpasar, WITA Time (UTC+8))
 
 - Galebino (Age: 2 years, 8 months, 26 days, 23 hours - Passed away)
-- Thao (Age: 1 years, 5 months, 10 days, 5 hours)
-- Lua Fuzza (Age: 1 years, 5 months, 10 days, 5 hours)
-- Ziggy (Age: 0 years, 2 months, 5 days, 19 hours)
+- Thao (Age: 1 years, 5 months, 11 days, 5 hours)
+- Lua Fuzza (Age: 1 years, 5 months, 11 days, 5 hours)
+- Ziggy (Age: 0 years, 2 months, 6 days, 19 hours)
